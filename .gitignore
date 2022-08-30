@@ -10,7 +10,7 @@ frontend/.pnp.js
 frontend//coverage
 
 # production
-#/build
+frontend/build
 
 # misc
 frontend/.DS_Store
@@ -35,7 +35,7 @@ test_frontend/.pnp.js
 test_frontend/coverage
 
 # production
-#/build
+test_frontend/build
 
 # misc
 test_frontend/.DS_Store

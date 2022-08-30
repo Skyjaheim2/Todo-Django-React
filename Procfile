@@ -1,0 +1,1 @@
+web: gunicorn todo_list_react.wsgi --log-file -
